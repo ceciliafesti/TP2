@@ -1,0 +1,6 @@
+Ingrese un numero para ver si es par o impar:
+2
+Es un numero par.
+---------------------------------------------------------------
+Process exited after6.657 seconds with return value 0
+Presiones una tecla para continuar...
